@@ -71,8 +71,6 @@ public sealed record Engineer
 
 <img width="80%" src="https://streak-stats.demolab.com?user=joaobrunomf&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaobrunomf&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
-
 </div>
 
 ---
