@@ -67,19 +67,6 @@ public sealed record Engineer
 </div>
 
 ---
-
-### `> cat principles.md`
-
-| Principle | In practice |
-|:--|:--|
-| 🧱 **Design for failure** | Retries, idempotency, circuit breakers and graceful degradation |
-| 📐 **Boundaries first** | Clear domains, explicit contracts, low coupling |
-| 🔭 **Observable by default** | If it's not measured, it's not in production |
-| 🤖 **Automate the boring** | CI/CD, IaC and paved roads for every team |
-| 🔒 **Security is a feature** | Least privilege, secrets out of code, defense in depth |
-
----
-
 ### `> render --contributions --3d`
 
 <div align="center">
