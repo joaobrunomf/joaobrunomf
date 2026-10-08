@@ -62,41 +62,6 @@ public sealed record Engineer
 
 ---
 
-### `> telemetry --live`
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/joaobrunomf/joaobrunomf/main/metrics.svg" />
-
-<img width="80%" src="https://streak-stats.demolab.com?user=joaobrunomf&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
-
-</div>
-
----
-
-### `> architecture --render reference`
-
-```mermaid
-flowchart LR
-    A["📱 Client Apps"] -->|HTTPS| B["🛡️ API Gateway"]
-    B --> C["🔐 Auth · OAuth2 / JWT"]
-    B --> D["⚙️ .NET Services"]
-    D -->|events| E[("📨 Message Broker")]
-    E --> F["🔄 Async Workers"]
-    D --> G[("🗄️ SQL Server")]
-    D --> H[("⚡ Redis Cache")]
-    D -.-> I["📡 Observability · Logs · Traces · Metrics"]
-    F -.-> I
-
-    classDef neon fill:#0d1117,stroke:#00d4ff,stroke-width:2px,color:#c9d1d9
-    classDef data fill:#0d1117,stroke:#7c3aed,stroke-width:2px,color:#c9d1d9
-    class A,B,C,D,F,I neon
-    class E,G,H data
-    linkStyle default stroke:#7c3aed,stroke-width:2px
-```
-
----
-
 ### `> cat principles.md`
 
 | Principle | In practice |
