@@ -26,7 +26,7 @@ public sealed record Engineer
     public string   Domain    => "Payments · Acquiring";
     public string   Location  => "Cuiabá, MT · Brazil 🇧🇷";
     public string[] Focus     => ["Distributed Systems", "Platform Engineering", "AI/LLM Integration"];
-    public string[] Education => ["Postgraduate Degree in Artificial Intelligence"];
+    public string[] Education => ["Postgrad · Artificial Intelligence", "Postgrad · Software Architecture"];
     public string   Motto     => "Build reliable systems. Automate the rest.";
 }
 ```
