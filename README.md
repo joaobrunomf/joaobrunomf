@@ -69,8 +69,7 @@ public sealed record Engineer
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaobrunomf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d4ff" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrunomf&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
 
-<img width="80%" src="https://streak-stats.demolab.com?user=joaobrunomf&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
-
+<img width="80%" src="https://streak-stats.demolab.com?user=joaobrunomf&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
 </div>
 
 ---
