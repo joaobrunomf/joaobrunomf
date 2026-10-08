@@ -50,7 +50,7 @@ public sealed record Engineer
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,githubactions&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,redis,rabbitmq,postgres,linux,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=azure,docker,redis,rabbitmq,postgres,linux,py&theme=dark" />
 
 <br/><br/>
 
