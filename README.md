@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=220&section=header&text=João%20Bruno&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Backend%20Engineer%20·%20Payments%20·%20.NET&descSize=18&descAlignY=56" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=220&section=header&text=João%20Bruno&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Build%20reliable%20systems.%20Automate%20the%20rest.&descSize=18&descAlignY=56" />
 
 <a href="https://github.com/joaobrunomf">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=%3E+Initializing+profile...;%3E+High-availability+backends+in+C%23%2F.NET;%3E+Processing+payments+at+scale;%3E+Platform+engineering+%26+DevEx;%3E+AI-powered+backend+systems+%F0%9F%A4%96" />
@@ -9,7 +9,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00d4ff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LOCATION-CUIABÁ%20·%20BR-7c3aed?style=flat-square&labelColor=0d1117" />
 <img src="https://komarev.com/ghpvc/?username=joaobrunomf&style=flat-square&color=00d4ff&label=PROFILE+VIEWS" />
 
 </div>
@@ -18,18 +17,9 @@
 
 ### `> whoami`
 
-```csharp
-public sealed record Engineer
-{
-    public string   Name      => "João Bruno";
-    public string   Role      => "Senior Backend Engineer";
-    public string   Domain    => "Payments · Acquiring";
-    public string   Location  => "Cuiabá, MT · Brazil 🇧🇷";
-    public string[] Focus     => ["Distributed Systems", "Platform Engineering", "AI/LLM Integration"];
-    public string[] Education => ["Postgrad · Artificial Intelligence", "Postgrad · Software Architecture"];
-    public string   Motto     => "Build reliable systems. Automate the rest.";
-}
-```
+<div align="center">
+  <img width="100%" src="./assets/terminal.svg" alt="dotnet run --project joao-bruno" />
+</div>
 
 ---
 
@@ -44,7 +34,6 @@ public sealed record Engineer
 | ⚡ **Fun fact** | Coffee in, code out ☕ → 💻 |
 
 ---
-
 
 ### `> tech.stack --all`
 
