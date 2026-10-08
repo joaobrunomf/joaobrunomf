@@ -1,25 +1,106 @@
-<h1 align="center">Olá, eu sou o João Bruno 👋</h1>
-<p align="center">Senior Backend Developer · C#/.NET · Meios de pagamento</p>
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║  Substitua SEU_USUARIO pelo seu usuário do GitHub             ║
+     ║  e SEU_LINKEDIN pelo seu perfil do LinkedIn                   ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+<div align="center">
 
-### 🧠 Sobre mim
-- 💳 Backend: APIs, integrações e alta disponibilidade
-- 🏗️ Interesse em arquitetura, engenharia de plataforma e DevEx
-- 🤖 Pós-graduado em IA, explorando aplicações de LLMs no backend
-- 🌱 Estudando: Engenharia de software
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=220&section=header&text=João%20Bruno&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Backend%20Engineer%20·%20Payments%20·%20.NET&descSize=18&descAlignY=56" />
 
-### 📊 Estatísticas
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaobrunomf&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrunomf&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<a href="https://github.com/joaobrunomf">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=%3E+Inicializando+perfil...;%3E+Backend+de+alta+disponibilidade+em+C%23%2F.NET;%3E+Processando+pagamentos+em+escala;%3E+Engenharia+de+plataforma+%26+DevEx;%3E+IA+aplicada+ao+backend+%F0%9F%A4%96" />
+</a>
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jbrunomf)
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00d4ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LOCATION-CUIABÁ%20·%20BR-7c3aed?style=flat-square&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=joaobrunomf&style=flat-square&color=00d4ff&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+### `> whoami`
+
+```csharp
+public sealed record Engineer
+{
+    public string   Name      => "João Bruno";
+    public string   Role      => "Senior Backend Engineer";
+    public string   Domain    => "Payments · Acquiring";
+    public string   Location  => "Cuiabá, MT · Brasil 🇧🇷";
+    public string[] Focus     => ["Distributed Systems", "Platform Engineering", "AI/LLM Integration"];
+    public string[] Education => ["Pós-graduação em Inteligência Artificial"];
+    public string   Motto     => "Build reliable systems. Automate the rest.";
+}
+```
+
+---
+
+### `> system.status`
+
+| Módulo | Estado |
+|:--|:--|
+| 🛰️ **Current focus** | APIs resilientes e de baixa latência para meios de pagamento |
+| 🧬 **Exploring** | Engenharia de plataforma, Internal Developer Platforms, DevEx |
+| 🤖 **AI lab** | Integração de LLMs em sistemas backend, agentes e automação |
+| 📚 **Learning** | Certificações Microsoft · Arquitetura cloud-native |
+| ⚡ **Fun fact** | Café entra, código sai ☕ → 💻 |
+
+---
+
+### `> tech.stack --all`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,githubactions&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,redis,rabbitmq,postgres,linux,py&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OpenAI%20%2F%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+
+</div>
+
+---
+
+### `> telemetry --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaobrunomf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d4ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrunomf&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+
+<img width="80%" src="https://streak-stats.demolab.com?user=joaobrunomf&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaobrunomf&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+---
+
+### `> render --contributions`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaobrunomf/joaobrunomf/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaobrunomf/joaobrunomf/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/joaobrunomf/joaobrunomf/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
+### `> connect --secure`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/jbrunomf)
+[![Email](https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117)](mailto:joao.fernandes@redeflex.com.br)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
