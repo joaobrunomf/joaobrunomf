@@ -67,12 +67,6 @@ public sealed record Engineer
 </div>
 
 ---
-### `> render --contributions --3d`
-
-<div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
----
 
 ### `> render --contributions`
 
