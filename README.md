@@ -66,12 +66,46 @@ public sealed record Engineer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaobrunomf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d4ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobrunomf&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<img width="100%" src="https://raw.githubusercontent.com/joaobrunomf/joaobrunomf/main/metrics.svg" />
 
 <img width="80%" src="https://streak-stats.demolab.com?user=joaobrunomf&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+
 </div>
 
+---
+
+### `> architecture --render reference`
+
+```mermaid
+flowchart LR
+    A["📱 Client Apps"] -->|HTTPS| B["🛡️ API Gateway"]
+    B --> C["🔐 Auth · OAuth2 / JWT"]
+    B --> D["⚙️ .NET Services"]
+    D -->|events| E[("📨 Message Broker")]
+    E --> F["🔄 Async Workers"]
+    D --> G[("🗄️ SQL Server")]
+    D --> H[("⚡ Redis Cache")]
+    D -.-> I["📡 Observability · Logs · Traces · Metrics"]
+    F -.-> I
+
+    classDef neon fill:#0d1117,stroke:#00d4ff,stroke-width:2px,color:#c9d1d9
+    classDef data fill:#0d1117,stroke:#7c3aed,stroke-width:2px,color:#c9d1d9
+    class A,B,C,D,F,I neon
+    class E,G,H data
+    linkStyle default stroke:#7c3aed,stroke-width:2px
+```
+
+---
+
+### `> cat principles.md`
+
+| Principle | In practice |
+|:--|:--|
+| 🧱 **Design for failure** | Retries, idempotency, circuit breakers and graceful degradation |
+| 📐 **Boundaries first** | Clear domains, explicit contracts, low coupling |
+| 🔭 **Observable by default** | If it's not measured, it's not in production |
+| 🤖 **Automate the boring** | CI/CD, IaC and paved roads for every team |
+| 🔒 **Security is a feature** | Least privilege, secrets out of code, defense in depth |
 ---
 
 ### `> render --contributions`
