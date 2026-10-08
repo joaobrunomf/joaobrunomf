@@ -1,14 +1,9 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  Substitua SEU_USUARIO pelo seu usuário do GitHub             ║
-     ║  e SEU_LINKEDIN pelo seu perfil do LinkedIn                   ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=220&section=header&text=João%20Bruno&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Backend%20Engineer%20·%20Payments%20·%20.NET&descSize=18&descAlignY=56" />
 
 <a href="https://github.com/joaobrunomf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=%3E+Inicializando+perfil...;%3E+Backend+de+alta+disponibilidade+em+C%23%2F.NET;%3E+Processando+pagamentos+em+escala;%3E+Engenharia+de+plataforma+%26+DevEx;%3E+IA+aplicada+ao+backend+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=%3E+Initializing+profile...;%3E+High-availability+backends+in+C%23%2F.NET;%3E+Processing+payments+at+scale;%3E+Platform+engineering+%26+DevEx;%3E+AI-powered+backend+systems+%F0%9F%A4%96" />
 </a>
 
 <br/>
@@ -29,9 +24,9 @@ public sealed record Engineer
     public string   Name      => "João Bruno";
     public string   Role      => "Senior Backend Engineer";
     public string   Domain    => "Payments · Acquiring";
-    public string   Location  => "Cuiabá, MT · Brasil 🇧🇷";
+    public string   Location  => "Cuiabá, MT · Brazil 🇧🇷";
     public string[] Focus     => ["Distributed Systems", "Platform Engineering", "AI/LLM Integration"];
-    public string[] Education => ["Pós-graduação em Inteligência Artificial"];
+    public string[] Education => ["Postgraduate Degree in Artificial Intelligence"];
     public string   Motto     => "Build reliable systems. Automate the rest.";
 }
 ```
@@ -40,13 +35,13 @@ public sealed record Engineer
 
 ### `> system.status`
 
-| Módulo | Estado |
+| Module | Status |
 |:--|:--|
-| 🛰️ **Current focus** | APIs resilientes e de baixa latência para meios de pagamento |
-| 🧬 **Exploring** | Engenharia de plataforma, Internal Developer Platforms, DevEx |
-| 🤖 **AI lab** | Integração de LLMs em sistemas backend, agentes e automação |
-| 📚 **Learning** | Certificações Microsoft · Arquitetura cloud-native |
-| ⚡ **Fun fact** | Café entra, código sai ☕ → 💻 |
+| 🛰️ **Current focus** | Resilient, low-latency APIs and integrations |
+| 🧬 **Exploring** | Platform engineering, Internal Developer Platforms, DevEx |
+| 🤖 **AI lab** | LLM integration in backend systems, agents and automation |
+| 📚 **Learning** | Microsoft certifications · Cloud-native architecture |
+| ⚡ **Fun fact** | Coffee in, code out ☕ → 💻 |
 
 ---
 
